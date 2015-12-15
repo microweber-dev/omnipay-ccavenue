@@ -1,5 +1,5 @@
 {
-    "name": "dioscouri/omnipay-ccavenue",
+    "name": "microweber-dev/omnipay-ccavenue",
     "type": "library",
     "description": "CCAvenue support for Omnipay payment processing library",
     "keywords": [
